@@ -1,0 +1,5 @@
+<menu>
+    <Cloudfence>
+      <Dashboard VisibleName="Dashboard (legacy)" cssClass="fa fa-dashboard fa-fw" url="/dashboard.php" order="1" />
+    </Cloudfence>
+</menu>
